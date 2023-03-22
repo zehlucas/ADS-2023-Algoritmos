@@ -10,7 +10,7 @@ programa
 		real media
 		
 		escreva("Insira o valor da primeira nota: ")
-		leia(nota_1)
+		leia(nota1)
 
 		escreva("Insira o valor da segunda nota: ")
 		leia(nota2)
@@ -31,7 +31,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 153; 
+ * @POSICAO-CURSOR = 271; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
